@@ -28,9 +28,14 @@ Grad-CAM
      
      
 =====CNN.IPYNB (2)=====    
-     
+This notebook instantiates a Convolutional Neural Network model, with 3 filter layers    
+The data is split into 70% train data, 20 validation data and 10% test data to be sourced into the model    
+This model achieved a 65% accurate prediction rate between fresh and rotten oranges.     
       
 =====EDA.IPYNB (3)=====     
-    
-     
+This notebook aims to perform Exploratory Data Analysis (EDA) for our dataset, gathering data for pre-processing to be used in our model    
+- Analysing dataset distribution    
+- Visualisation of dataset    
+- Inspecting dataset properties    
+      
 =====DATACLEAN.IPYNB (4)=====     
