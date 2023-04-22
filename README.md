@@ -7,30 +7,30 @@ Our motivation for this project stems from commonly seen orange juice machines t
 
 # Contributors
 
-@ Kiefer - Exploratory Data Analysis & Visualisation, Convolutional Neural Network (CNN) Model, Grad-CAM heatmap
-@ Soham - Data Cleaning & Preparation, Data-driven insights
-@ Marcus - Convolutional Dictionary Learning Model (CDL), KMeans Clustering, Purity Scores
+@ Kiefer - Exploratory Data Analysis & Visualisation, Convolutional Neural Network (CNN) Model, Grad-CAM heatmap     
+@ Soham - Data Cleaning & Preparation, Data-driven insights      
+@ Marcus - Convolutional Dictionary Learning Model (CDL), KMeans Clustering, Purity Scores      
 
 # Models used
-Convolutional Neural Network
-Convolutional Dictionary Learning Model
-KMeans Clustering
-Purity Score
-Grad-CAM
+Convolutional Neural Network    
+Convolutional Dictionary Learning Model    
+KMeans Clustering     
+Purity Score      
+Grad-CAM      
 
 # Notebooks
-1) cdl.ipynb (our implementation)
-2) cnn.ipynb (conventional implementation)
-3) eda.ipynb (exploratory data analysis)
-4) dataclean.ipynb (data cleaning)
+1) cdl.ipynb (our implementation)     
+2) cnn.ipynb (conventional implementation)     
+3) eda.ipynb (exploratory data analysis)    
+4) dataclean.ipynb (data cleaning)    
 
-=====CDL.IPYNB (1)=====
-
-
-=====CNN.IPYNB (2)=====
-
-
-=====EDA.IPYNB (3)=====
-
-
-=====DATACLEAN.IPYNB (4)=====
+=====CDL.IPYNB (1)=====    
+     
+     
+=====CNN.IPYNB (2)=====    
+     
+      
+=====EDA.IPYNB (3)=====     
+    
+     
+=====DATACLEAN.IPYNB (4)=====     
