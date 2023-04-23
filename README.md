@@ -41,7 +41,8 @@ The main method to run the classification process is the make_option() function,
 
 After running the code, you will get the performance metrics for the K-Means clustering using Euclidean and Mahalanobis distances.
 
-**Dependencies**
+*Dependencies*
+
 The code requires the following libraries:
 
 numpy
