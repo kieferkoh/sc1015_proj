@@ -91,7 +91,7 @@ The code requires the following libraries:
 imagehash tensorflow  
 
 # Limitations and Improvements
-Currently our model can only predict the freshness of a fruit based solely on its looks from the outside, hence some oranges which are rotten on the inside but look fine on the outside may be misclassified.
+Currently our model can only predict the freshness of a fruit based solely on its looks from the outside, hence some oranges which are rotten on the inside but look fine on the outside may be misclassified.   
 To overcome this limitation in a future model, an additional dataset of images of oranges once they've been cut can be included can be used for training, and then the oranges could be checked for freshness twice, once before being cut and once after. By having an additional layer of checking, the model accuracy will be near perfect.
 
 # References
