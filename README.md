@@ -43,7 +43,7 @@ After running the code, you will get the performance metrics for the K-Means clu
 
 **Dependencies**
 
-The code requires the following libraries:
+The code requires the following libraries:  
 
 numpy
 cv2
@@ -62,7 +62,7 @@ This model achieved a 50% accurate prediction rate between fresh and rotten oran
 
 **Dependencies**
 
-The code requires the following libraries:
+The code requires the following libraries:  
 os
 tensorflow
 cv2
@@ -77,7 +77,7 @@ This notebook aims to perform Exploratory Data Analysis (EDA) for our dataset, g
 - Inspecting dataset properties    
 **Dependencies**
 
-The code requires the following libraries:
+The code requires the following libraries:  
 
 os
 matplotlib
