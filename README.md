@@ -57,7 +57,7 @@ Make sure to install the required libraries before running the code.
 
 =====CNN.IPYNB (2)=====    
 This notebook instantiates a Convolutional Neural Network model, with 3 filter layers    
-The data is split into 70% train data, 20 validation data and 10% test data to be sourced into the model    
+The data is split into 70% train data, 20% validation data and 10% test data to be sourced into the model    
 This model achieved a 50% accurate prediction rate between fresh and rotten oranges.     
 
 **Dependencies**
@@ -87,4 +87,4 @@ This notebook removes duplicates and outliers from the dataset using hash functi
 **Dependencies**
 
 The code requires the following libraries:  
-imagehash tensorflow
+imagehash tensorflow  
