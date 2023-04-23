@@ -83,5 +83,8 @@ os
 matplotlib
 random  
 =====DATACLEAN.IPYNB (4)=====     
-This notebook removes duplicates and outliers from the dataset using hash functions and by comparing the frequency property of the images.
-Dependencies required for this notebook are imagehash and tensorflow.
+This notebook removes duplicates and outliers from the dataset using hash functions and by comparing the frequency property of the images.  
+**Dependencies**
+
+The code requires the following libraries:  
+imagehash tensorflow
