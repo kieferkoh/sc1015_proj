@@ -67,3 +67,5 @@ This notebook aims to perform Exploratory Data Analysis (EDA) for our dataset, g
 - Inspecting dataset properties    
       
 =====DATACLEAN.IPYNB (4)=====     
+This notebook removes duplicates and outliers from the dataset using hash functions and by comparing the frequency property of the images.
+Dependencies required for this notebook are imagehash and tensorflow.
