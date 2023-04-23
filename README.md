@@ -25,8 +25,35 @@ Grad-CAM
 4) dataclean.ipynb (data cleaning)    
 
 =====CDL.IPYNB (1)=====    
-     
-     
+This code provides a method for classifying oranges into two categories: fresh and rotten. The classification is performed using a two-layer Convolutional Dictionary Learning (CDL) and clustering-based approach, specifically K-Means clustering.
+
+The main steps of this approach are:
+
+Load the orange images dataset and preprocess the images.
+Perform Convolutional Dictionary Learning (CDL) in a two-layer structure.
+Estimate the sparse representation (coefficient maps) for the training data using the learned dictionaries.
+Apply clustering on the learned representations to perform classification.
+Evaluate the performance using purity and Rand Index metrics.
+Usage
+To run the code, you need to have the dataset of orange images stored in a "data" folder, with two subfolders: "freshoranges" and "rottenoranges". The dataset should contain labeled images of fresh and rotten oranges.
+
+The main method to run the classification process is the make_option() function, which sets the options for the CDL layers and the number of training and testing samples.
+
+After running the code, you will get the performance metrics for the K-Means clustering using Euclidean and Mahalanobis distances.
+
+Dependencies
+The code requires the following libraries:
+
+numpy
+cv2
+os
+sporco
+sklearn
+SF_KMeans
+skimage
+torchvision
+Make sure to install the required libraries before running the code.
+
 =====CNN.IPYNB (2)=====    
 This notebook instantiates a Convolutional Neural Network model, with 3 filter layers    
 The data is split into 70% train data, 20 validation data and 10% test data to be sourced into the model    
