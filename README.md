@@ -24,7 +24,7 @@ Grad-CAM
 3) eda.ipynb (exploratory data analysis)    
 4) dataclean.ipynb (data cleaning)    
 
-=====CDL.IPYNB (1)=====    
+**=====CDL.IPYNB (1)=====**    
 This code provides a method for classifying oranges into two categories: fresh and rotten. The classification is performed using a two-layer Convolutional Dictionary Learning (CDL) and clustering-based approach, specifically K-Means clustering.
 
 The main steps of this approach are:
@@ -41,7 +41,7 @@ The main method to run the classification process is the make_option() function,
 
 After running the code, you will get the performance metrics for the K-Means clustering using Euclidean and Mahalanobis distances.
 
-Dependencies
+**Dependencies**
 The code requires the following libraries:
 
 numpy
