@@ -1,7 +1,7 @@
 # DETECTING FRESH FRUIT
 
 # About
-This is a mini project for SC1015 (Data Science and Artificial Intelligence) which implements image recognition models to detect between fake and fresh fruits
+This is a mini project for SC1015 (Data Science and Artificial Intelligence) which implements image recognition models to detect between rotten and fresh fruits
 
 Our motivation for this project stems from commonly seen orange juice machines that are placed around our campus, shopping centres and other prominent locations. We wanted to investigate the feasibility of a image recognition model in vetting the condition of the oranges in the juice machine to make sure it has not become rotten
 
